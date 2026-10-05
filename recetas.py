@@ -15,7 +15,7 @@ def receta_pasta():
 
 # Agrega tu receta debajo de esta línea
 # Ejemplo:
-# def receta_tacos():
-#     print(" Receta: Tacos de pollo")
-#     print("Ingredientes: tortillas, pollo, cebolla, cilantro")
-#     print("Pasos: Cocinar el pollo, calentar las tortillas, armar los tacos.")
+def receta_pechugas():
+    print(" Receta: pechugas empanizadas")
+    print("Ingredientes: pechugas de pollo, Pan molido, Aceite")
+    print("Pasos: Cocinar las pechugas de pollo al zarten a fuego medio, voltear la pechuga cada minuto hasta que la pechuga este bien doreada de ambos lados.")
